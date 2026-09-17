@@ -171,16 +171,3 @@ y = 'Python'
 for x in y:
     print(x)
 
-print("hola desde github")
-print("esta es una nueva linea para github")
-
-
-
-#hola mundo de3sde github
-"""
-esto es un 
-comentario 
-desde muchas 
-lineas 
-para ver si lo guardo bien 
-"""
